@@ -13,3 +13,7 @@ for cryptocurrency market analytics, visualization, and research purposes.
 
 ## Status
 Work in progress. This repository is intended for internal use.
+
+## Notes
+This repository does not contain TradingView library files or license keys.
+All sensitive assets are stored securely outside of this repository.
